@@ -1,2 +1,2 @@
-# Primeiro Java
-Primeiro programa como exemplo para aula de POO em java.
+# Programação orientada a objetos
+Repositório destinado a matéria de POO na UFABC.
