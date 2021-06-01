@@ -1,2 +1,2 @@
-# primeirojava
-Primeiro programa da aula de POO em java.
+# Primeiro Java
+Primeiro programa como exemplo para aula de POO em java.
